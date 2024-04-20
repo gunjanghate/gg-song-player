@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+25&family=Protest+Riot&family=Protest+Strike&family=Roboto+Slab:wght@100..900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Jersey 25", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  list-style: none;
+  scrollbar-width: none;
+}
+a{
+  text-decoration: none;
+}
+:root {
+  --head: #075E54;
+  --back: #81001e;
+  --txt-color: rgb(251, 224, 17);
+}
+body{
+  background: linear-gradient(#982525, #173668);;
+     background-color: var(--back);
+  color: var(--txt-color)
+}
