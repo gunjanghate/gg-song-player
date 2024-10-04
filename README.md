@@ -1,8 +1,11 @@
-# React + Vite
+# GG Song Player 🎵
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, yet elegant song player application to manage and play your favorite songs. This repository contains the source code for the **GG Song Player** application.
 
-Currently, two official plugins are available:
+## Features ✨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Play, pause, and stop songs
+- Add and manage your song library
+- Simple and intuitive user interface
+- Playlist support for organizing songs
+- Volume control and mute functionality
